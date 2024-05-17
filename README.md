@@ -10,6 +10,10 @@ go test ./...
 go test -v ./... 
 ```
 
+```shell
+go test -v -cover github.com/pfi79/go-test-cover-error/b
+```
+
 ## FAIL
 
 ```shell
